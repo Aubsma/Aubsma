@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I found a secret. New to this dev world :metal: :octocat: ✨
+
 <!--
 **Aubsma/Aubsma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
